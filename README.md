@@ -6,6 +6,6 @@
 
 [2.1_Linear_Reg.htm](2.1_Linear_Reg.htm) ... Linear Regression with Boston Housing Data
 
-[3.1_Diabetes_Data_with Lasso.htm](3.1_Diabetes_Data_with Lasso.htm) ... Diabetes Data with Lasso
+[3.1_Diabetes_Data_with_Lasso.htm](3.1_Diabetes_Data_with_Lasso.htm) ... Diabetes Data with Lasso
 
 [3.2_Ridge_Lasso.htm](3.2_Ridge_Lasso.htm) ... Ridge and Lasso using glmnet
