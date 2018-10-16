@@ -13,3 +13,5 @@
 [3.3_Variable_Selection_Toy.htm](3.3_Variable_Selection_Toy.htm) ... Examples of Variable Selection
 
 [3.4_Variable_Selection.htm](3.4_Variable_Selection.htm) ... Variable Selection with Bostion Housing Data
+
+[4.1_Ensemble_Trees_for_Regression.htm](4.1_Ensemble_Trees_for_Regression.htm) ... Ensemble Trees for Regression
