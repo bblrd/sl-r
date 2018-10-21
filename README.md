@@ -15,3 +15,5 @@
 [3.4_Variable_Selection.htm](3.4_Variable_Selection.htm) ... Variable Selection with Bostion Housing Data
 
 [4.1_Ensemble_Trees_for_Regression.htm](4.1_Ensemble_Trees_for_Regression.htm) ... Ensemble Trees for Regression
+
+[4.2_GBM_for_Regression.htm](4.2_GBM_for_Regression.htm) ... GBM for Regression
