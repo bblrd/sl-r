@@ -18,4 +18,4 @@
 
 [4.2_GBM_for_Regression.htm](4.2_GBM_for_Regression.htm) ... GBM for Regression
 
-[4.3_Regression_Tree.htm](4.3_Regression_Tree.htm) ... Regression Trees with tree and rpart
+[4.3_Regression_Tree.htm](4.3_Regression_Tree.htm) ... Regression Trees with rpart
