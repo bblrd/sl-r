@@ -17,3 +17,5 @@
 [4.1_Ensemble_Trees_for_Regression.htm](4.1_Ensemble_Trees_for_Regression.htm) ... Ensemble Trees for Regression
 
 [4.2_GBM_for_Regression.htm](4.2_GBM_for_Regression.htm) ... GBM for Regression
+
+[4.3_Regression_Tree.htm](4.3_Regression_Tree.htm) ... Regression Trees with tree and rpart
