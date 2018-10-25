@@ -19,3 +19,5 @@
 [4.2_GBM_for_Regression.htm](4.2_GBM_for_Regression.htm) ... GBM for Regression
 
 [4.3_Regression_Tree.htm](4.3_Regression_Tree.htm) ... Regression Trees with rpart
+
+[5.1_Local_Regression.htm](5.1_Local_Regression.htm) ... Local Regression with faraway
