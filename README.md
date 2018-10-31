@@ -21,3 +21,5 @@
 [4.3_Regression_Tree.htm](4.3_Regression_Tree.htm) ... Regression Trees with rpart
 
 [5.1_Local_Regression.htm](5.1_Local_Regression.htm) ... Local Regression with faraway
+
+[5.2_Polynomial_Regression.htm](5.2_Polynomial_Regression.htm) ... Polynomial Regression with ISLR
