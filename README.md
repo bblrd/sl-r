@@ -25,3 +25,5 @@
 [5.2_Polynomial_Regression.htm](5.2_Polynomial_Regression.htm) ... Polynomial Regression with ISLR
 
 [5.3_Regression_Splines.htm](5.3_Regression_Splines.htm) ... Regression_Splines with birthweight data
+
+[5.4_Smoothing_Splines.htm](5.4_Smoothing_Splines.htm) ... Smoothing_Splines with splines
