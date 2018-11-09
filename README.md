@@ -27,3 +27,5 @@
 [5.3_Regression_Splines.htm](5.3_Regression_Splines.htm) ... Regression_Splines with birthweight data
 
 [5.4_Smoothing_Splines.htm](5.4_Smoothing_Splines.htm) ... Smoothing_Splines with splines
+
+[6.1_Clustering.htm](6.1_Clustering.htm) ... Multidimensional scaling and clustering
