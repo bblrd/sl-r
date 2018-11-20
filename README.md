@@ -29,3 +29,5 @@
 [5.4_Smoothing_Splines.htm](5.4_Smoothing_Splines.htm) ... Smoothing_Splines with splines
 
 [6.1_Clustering.htm](6.1_Clustering.htm) ... Multidimensional scaling and clustering
+
+[7.1_ MixtureModel_Clustering.htm](7.1_ MixtureModel_Clustering.htm) ... Model-based Clustering
