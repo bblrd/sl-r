@@ -33,3 +33,5 @@
 [7.1_MixtureModel_Clustering.htm](7.1_MixtureModel_Clustering.htm) ... Model-based Clustering
 
 [7.2_LDA.htm](7.2_LDA.htm) ... Text Mining with JSS Abstracts
+
+[7.3_HMM.htm](7.3_HMM.htm) ... Hidden Markov Models
