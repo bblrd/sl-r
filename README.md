@@ -31,3 +31,5 @@
 [6.1_Clustering.htm](6.1_Clustering.htm) ... Multidimensional scaling and clustering
 
 [7.1_MixtureModel_Clustering.htm](7.1_MixtureModel_Clustering.htm) ... Model-based Clustering
+
+[7.2_LDA.htm](7.2_LDA.htm) ... Text Mining with JSS Abstracts
