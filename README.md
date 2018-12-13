@@ -35,3 +35,5 @@
 [7.2_LDA.htm](7.2_LDA.htm) ... Text Mining with JSS Abstracts
 
 [7.3_HMM.htm](7.3_HMM.htm) ... Hidden Markov Models
+
+[9.1_QDA_LDA_FDA.htm](9.1_QDA_LDA_FDA.htm) ... QDA, LDA, and FDA
