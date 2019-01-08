@@ -40,3 +40,5 @@
 
 [9.2_NaiveBayes_klaR_Predict.htm](9.2_NaiveBayes_klaR_Predict.htm) ... Naive Bayes in klaR
 
+[10.1_Logistic_Regression.htm](10.1_Logistic_Regression.htm) ... Logistic Regression
+
