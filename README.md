@@ -42,3 +42,7 @@
 
 [10.1_Logistic_Regression.htm](10.1_Logistic_Regression.htm) ... Logistic Regression
 
+[10.2_Logistic_Regression_Splines.htm](10.2_Logistic_Regression_Splines.htm) ... Logistic Regression with Splines
+
+[12.1_Boosting.htm](12.1_Boosting.htm) ... Boosting
+
